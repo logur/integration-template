@@ -21,7 +21,7 @@ go get logur.dev/integration/template
 package main
 
 import (
-	"github.com/goph/logur"
+	"logur.dev/logur"
 	templateintegration "logur.dev/integration/template"
 )
 

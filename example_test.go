@@ -1,7 +1,7 @@
 package template_test
 
 import (
-	"github.com/goph/logur"
+	"logur.dev/logur"
 
 	templateintegration "logur.dev/integration/template"
 )

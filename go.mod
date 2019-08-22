@@ -2,4 +2,4 @@ module logur.dev/integration/template
 
 go 1.12
 
-require github.com/goph/logur v0.12.0
+require logur.dev/logur v0.15.0

@@ -2,7 +2,7 @@
 package template
 
 import (
-	"github.com/goph/logur"
+	"logur.dev/logur"
 )
 
 // New returns a new TEMPLATE logger.
