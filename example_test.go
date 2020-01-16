@@ -7,7 +7,7 @@ import (
 )
 
 func ExampleNew() {
-	logger := templateintegration.New(logur.NewNoopLogger())
+	logger := templateintegration.New(logur.NoopLogger{})
 
 	// Output:
 	_ = logger
